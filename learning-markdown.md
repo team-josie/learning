@@ -87,3 +87,5 @@ I am another horizontal line (with hyphens)
 ---
 
 - [ ] I am a checkbox
+
+- [x] I am a checked checkbox
